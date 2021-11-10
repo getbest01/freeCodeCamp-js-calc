@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.btnGrp {
+  width: 200px;
+  height: 300px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.btn-primary {
+  width: 45px;
+  height: 45px;
+  margin: 2px;
+}
